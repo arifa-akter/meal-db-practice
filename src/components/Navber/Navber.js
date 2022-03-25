@@ -3,7 +3,7 @@ import './Navber.css'
 const Navber = () => {
     return (
         <div>
-            <h1 className='text-danger'>product</h1>
+            <h1 className=' text-center'>product</h1>
         </div>
     );
 };
