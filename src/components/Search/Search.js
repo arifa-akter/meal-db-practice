@@ -26,7 +26,7 @@ const Search = () => {
         setFoods(food)
     }
     return (
-  <div className='container'>
+  <div className='container-xxl'>
     <div className="input-field">
     <InputGroup className="mb-3 container" >
      <FormControl
